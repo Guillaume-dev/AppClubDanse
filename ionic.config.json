@@ -1,5 +1,7 @@
 {
   "name": "AppClubDanse",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
